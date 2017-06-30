@@ -10,3 +10,4 @@ if (preg_match($reg, $code)){
 }else{
     echo "输入错误！";
 }
+gh4f6g5h65fg16hg61h6h5fg
